@@ -3,7 +3,7 @@
 
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusfiadi&show_icons=true&theme=tokyonight&count_private=true" height=180px/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuafiadi&theme=tokyonight&layout=compact" height=180px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusfiadi&theme=tokyonight&layout=compact" height=180px/>
 </p>
 <!--
 **yusfiadi/yusfiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
