@@ -1,10 +1,10 @@
 ### Hi there 👋
 🌱 I’m currently learning React Native
 
-
-![Yusfiadi's github stats](https://github-readme-stats.vercel.app/api?username=yusfiadi&show_icons=true&count_private=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusfiadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusfiadi&show_icons=true&theme=tokyonight&count_private=true" height=180px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuafiadi&theme=tokyonight&layout=compact" height=180px/>
+</p>
 <!--
 **yusfiadi/yusfiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
