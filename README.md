@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning React Native
+🌱 I’m currently learning React.js and Next.js
 
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusfiadi&show_icons=true&theme=tokyonight&count_private=true" height=180px/>
