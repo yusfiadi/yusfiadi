@@ -1,21 +1,12 @@
-### Hi there 👋
-🌱 I’m currently learning React.js and Next.js
+## Personal Portfolio
 
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusfiadi&show_icons=true&theme=tokyonight&count_private=true" height=180px/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusfiadi&theme=tokyonight&layout=compact" height=180px/>
-</p>
-<!--
-**yusfiadi/yusfiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Live Site](https://jsmasterypro.com)
 
-Here are some ideas to get you started:
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+
+In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+
+Setup:
+- run ```npm i && npm start```
