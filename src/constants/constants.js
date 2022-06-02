@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: 'Acreaus Website',
-    description: "Redesign and implement the new design of website using Figma and Wordpress.",
+    description: "Redesign and implement the new design of website",
     image: '/images/acreaus.png',
     tags: ['Wordpress', 'Figma', 'Beaver Builder'],
     visit: 'https://acreaus.com/',
@@ -25,8 +25,8 @@ export const projects = [
   },
   {
     title: 'Theresien Residenz',
-    // description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
+    description: "Redesign and implement the new design of website",
+    image: '/images/theresien.png',
     tags: ['Wordpress', 'Elementor', 'Figma'],
     visit: 'https://theresien-residenz.de',
     id: 3,
