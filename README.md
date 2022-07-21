@@ -1,7 +1,3 @@
 ## My Portfolio Website
 
-### [Live Site](https://yusfiadi.github.io)
-
-Setup:
-
-- run `npm i && npm start`
+### [Live Site](https://yusfiadi.vercel.app/)
